@@ -1,2 +1,2 @@
 # medical-case
-fun and graduate
+have fun and graduate
